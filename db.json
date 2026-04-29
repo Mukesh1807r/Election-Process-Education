@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "username": "mukesh",
+      "password": "mukesh",
+      "id": "hfmDDlchT_w",
+      "progress": [
+        {
+          "id": 1,
+          "text": "Register Account",
+          "done": false
+        },
+        {
+          "id": 2,
+          "text": "Verify Face ID",
+          "done": false
+        },
+        {
+          "id": 3,
+          "text": "Check Timeline",
+          "done": false
+        },
+        {
+          "id": 4,
+          "text": "Complete Quiz",
+          "done": false
+        }
+      ]
+    },
+    {
+      "username": "mukesh",
+      "password": "12345",
+      "id": "v8P5x4pmGmk",
+      "progress": [
+        {
+          "id": 1,
+          "text": "Register Account",
+          "done": false
+        },
+        {
+          "id": 2,
+          "text": "Verify Face ID",
+          "done": false
+        },
+        {
+          "id": 3,
+          "text": "Check Timeline",
+          "done": false
+        },
+        {
+          "id": 4,
+          "text": "Try AI Analyzer",
+          "done": false
+        }
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
